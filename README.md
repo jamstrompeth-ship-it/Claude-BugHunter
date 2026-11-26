@@ -8,7 +8,7 @@ Built by **[Sachin Sharma](https://www.linkedin.com/in/sachinsharma8080/)** — 
 
 <p align="center">
   <sub>SPONSORED BY</sub>
-  <br/>
+  <br/y>
   <br/>
   <a href="https://www.apismart.ai/">
     <picture>
